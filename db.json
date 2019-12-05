@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "titulo": "Teste 1",
+            "corpo": "Aqui é o primeiro post do primeiro teste"
+        },
+        {
+            "id": 2,
+            "titulo": "Teste 2",
+            "corpo": "Aqui é um outro post com um texto um pouco diferente"
+        },
+        {
+            "id": 3,
+            "titulo": "Teste 3",
+            "corpo": "Aqui é um negocio bem diferente já, extremamento não sei"
+        }
+    ]
+}
