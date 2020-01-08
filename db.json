@@ -149,16 +149,6 @@
       "id": 30,
       "title": "Postagem de teste",
       "body": "essa é a primeira postagem feita por um humano para testar o sistema de envio"
-    },
-    {
-      "id": 31,
-      "title": "Teste 2",
-      "body": "Segunda postagem para teste"
-    },
-    {
-      "id": 32,
-      "title": "Teste 3",
-      "body": "Postagem para teste 3"
     }
   ]
 }
